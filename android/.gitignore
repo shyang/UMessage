@@ -1,0 +1,7 @@
+
+.gradle
+/build
+*.zip
+
+/src/main/jniLibs
+/libs
