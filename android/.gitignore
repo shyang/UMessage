@@ -3,5 +3,5 @@
 /build
 *.zip
 
-/src/main/jniLibs
-/libs
+/PushSDK
+/so_all_platforms
