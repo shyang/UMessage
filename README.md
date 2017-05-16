@@ -4,7 +4,7 @@
 
 ```
 # Podfile
-pod 'UMessage', :podspec => 'https://raw.githubusercontent.com/shyang/UMessage/master/UMessage.podspec'
+pod 'UMessage', :podspec => 'https://raw.githubusercontent.com/shyang/UMessage/master/ios/UMessage.podspec'
 ```
 
 
