@@ -11,4 +11,4 @@ download:
 	mv -n so_all_platforms/* PushSDK/libs
 
 clean:
-	rm -rf PushSDK so_all_platforms
+	rm -rf PushSDK so_all_platforms .gradle build
